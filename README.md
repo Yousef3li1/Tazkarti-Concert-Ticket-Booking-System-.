@@ -1,21 +1,6 @@
 # 🎟️ Tazkarti Concert Ticket Booking System  
 
-## 👨‍💻 **Developed by**  
-- **Yousef Ali** (20101108)  
-- **Ahmed Saad** (20108269)  
 
----
-
-## 📖 **Table of Contents**  
-- [Introduction](#introduction)  
-- [Requirements](#requirements)  
-  - [Functional Requirements](#functional-requirements)  
-  - [Nonfunctional Requirements](#nonfunctional-requirements)  
-- [Diagrams](#diagrams)  
-  - [Use Case Diagram](#use-case-diagram)  
-  - [Class Diagram](#class-diagram)  
-  - [Sequence Diagram](#sequence-diagram)  
-- [Process Model](#process-model)  
 
 ---
 
@@ -62,12 +47,12 @@ The project emphasizes intuitive design, scalability, responsive interfaces, and
 ### **Use Case Diagram**  
 The **Use Case Diagram** illustrates how users and admins interact with the system and shows key functionalities, including browsing, booking, and managing events.  
 
-![Use Case Diagram](use.PNG)  
+
 
 ### **Class Diagram**  
 The **Class Diagram** defines the key classes of the system, their attributes, and relationships.  
 
-![Class Diagram](class.PNG)  
+
 
 **Key Points:**  
 - Tazkarti consists of multiple branches, each led by a branch manager.  
@@ -78,7 +63,7 @@ The **Class Diagram** defines the key classes of the system, their attributes, a
 ### **Sequence Diagram**  
 The **Sequence Diagram** demonstrates the interaction between the user, Tazkarti system, and the database during key processes such as logging in and booking tickets.  
 
-![Sequence Diagram](sequence.PNG)  
+ 
 
 ---
 
