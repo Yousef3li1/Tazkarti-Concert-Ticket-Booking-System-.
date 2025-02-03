@@ -90,11 +90,4 @@ We adopted the **reuse model** since this project builds upon an existing ticket
 - **Parties:** Can be booked by multiple users and categorized by genre, language, and release date.  
 - **Booking:** Stores information about the user, booking ID, and related confirmations.  
 
----
-
-## 📦 **Future Improvements**  
-- Implement a mobile application version of the system for iOS and Android.  
-- Add advanced analytics to help admins track the most popular events and user preferences.  
-- Integrate secure payment gateways for online ticket payments.  
-
 
