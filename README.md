@@ -97,11 +97,4 @@ We adopted the **reuse model** since this project builds upon an existing ticket
 - Add advanced analytics to help admins track the most popular events and user preferences.  
 - Integrate secure payment gateways for online ticket payments.  
 
----
-
-## 📜 **License**  
-This project is licensed under the **MIT License**. Feel free to use and enhance it as needed.  
-
----
-
 
